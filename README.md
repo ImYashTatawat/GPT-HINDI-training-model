@@ -1,4 +1,6 @@
 # GPT-HINDI-training-model
+FOR UPDATED CODE and MODEL REFER to this link 'https://drive.google.com/drive/folders/1MR7LujtAOevrUOG5glnCoDV79bNY09cZ?usp=sharing'
+In updated model is able to make sensible sentences or can say readable 
 This repository comprises my LLM course GPT training projects
 Prompt:   नमस्ते, भारत देश महान है। यहाँ की संस्कृति बहुत समृद्ध है। लोग बहुत मिलनसार और दोस्ताना होते हैं। भारत में अनेक भाषाएँ बोली जाती हैं, जिनमें हिंदी  सबसे प्रमुख भाषा है। भारत का इतिहास बहुत पुराना और रोचक है। यहाँ पर अनेक त्योहार मनाए जाते हैं, जो लोगों को एक-दूसरे के करीब लाते हैं। भारत की विविधता ही इ                   इसकी सबसे बड़ी ताकत है।
 
